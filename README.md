@@ -19,7 +19,8 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 </div>
 
 
-| Project | Name                       | Description                                                        | Demo                                                         | Video                                   |
+
+| Project | Name                       | Description                                                        | Demo                                                                                          
 | :--- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :--------------------------------------: |
 | 1    | <a href="https://github.com/Shatakshi-verma/Wiki">Wiki</a>   | Design a Wikipedia-like online encyclopedia | <a href="https://youtu.be/WzjLLu72pe4">Youtube</a> |
 
