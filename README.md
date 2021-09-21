@@ -19,12 +19,10 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 </div>
 
 
-
-| Project | Name                       | Description                                                        |Demo                                                        |                                    |
+| Project | Name                       | Description                                                        |Demo                                                        |  Deployment                                  |
 | :--- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :--------------------------------------: |
+| 0    | <a href="https://github.com/Shatakshi-verma/Google-Clone">Search</a>   | Design a front-end for Google Search, Google Image Search, and Google Advanced Search. | <a href="https://youtu.be/KVgM7G_9okM">Youtube</a> |  <a href="https://shatakshi-verma.github.io/Google-Clone/">Search</a> |
 | 1    | <a href="https://github.com/Shatakshi-verma/Wiki">Wiki</a>   | Design a Wikipedia-like online encyclopedia | <a href="https://youtu.be/WzjLLu72pe4">Youtube</a> |
-
-
 
 
 
